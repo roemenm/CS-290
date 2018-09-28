@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "Hello, CS 290! Here is my GitHub.\n";
+	std::cout << "Hello, CS 290! Here is my github.\n";
 	return 0;
 }
